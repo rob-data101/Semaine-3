@@ -19,7 +19,6 @@ Script Python permettant de collecter des données météo via l’API Open-Mete
 
 - `meteo.py` : collecte et logging des données
 - `analyse_meteo.py` : analyse simple avec pandas
-- `meteo.csv` : données générées
 
 ---
 
