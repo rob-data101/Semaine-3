@@ -34,7 +34,6 @@ Script Python utilisant la PokéAPI pour construire un mini-dataset Pokémon exp
 
 - `pokemon.py` : collecte API + CSV
 - `analyse_pokedex.py` : analyse pandas
-- `pokedex.csv` : dataset généré
 
 ---
 
